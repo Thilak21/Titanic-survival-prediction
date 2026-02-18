@@ -6,7 +6,7 @@ This project demonstrates end-to-end machine learning workflow including data pr
 
 ## Setup Instructions
 1. Install dependencies:
-!pip install -r requirements.txt
+install libraries from requirements.txt file
 2. Run the notebook:
 Open notebooks/titanic_survival_prediction.ipynb and execute all cells.
 
