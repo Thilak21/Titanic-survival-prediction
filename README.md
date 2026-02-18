@@ -4,6 +4,12 @@ This project aims to build a machine learning model to predict whether a passeng
 The objective of this project is to perform complete exploratory data analysis, handle missing values, engineer meaningful features, train multiple machine learning models, compare their performance, and generate a final submission file suitable for Kaggle evaluation.
 This project demonstrates end-to-end machine learning workflow including data preprocessing, feature engineering, model training, evaluation, and prediction generation.
 
+## Setup Instructions
+1. Install dependencies:
+!pip install -r requirements.txt
+2. Run the notebook:
+Open notebooks/titanic_survival_prediction.ipynb and execute all cells.
+
 ## Dataset
 Source: Kaggle Titanic – Machine Learning from Disaster
 Files used:
@@ -66,12 +72,6 @@ The best-performing model was trained on the full training dataset and used to g
 The final submission file was created in the required format:
 PassengerId, Survived
 The file `submission.csv` is located in the outputs folder.
-
-## Setup Instructions
-1. Install dependencies:
-pip install -r requirements.txt
-2. Run the notebook:
-Open notebooks/titanic_survival_prediction.ipynb and execute all cells.
 
 ## Key Learnings
 * Importance of thorough exploratory data analysis.
