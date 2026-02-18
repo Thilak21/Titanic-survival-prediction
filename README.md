@@ -71,7 +71,7 @@ The file `submission.csv` is located in the outputs folder.
 1. Install dependencies:
 pip install -r requirements.txt
 2. Run the notebook:
-Open notebooks/Titanic_survival_prediction.ipynb and execute all cells.
+Open notebooks/titanic_survival_prediction.ipynb and execute all cells.
 
 ## Key Learnings
 * Importance of thorough exploratory data analysis.
